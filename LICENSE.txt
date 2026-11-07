@@ -1,0 +1,36 @@
+CODE BREACH - Son Kullanıcı Lisansı
+© 2026 Flashbyte. Tüm hakları saklıdır.
+
+CODE BREACH oyunu; kodu, görselleri, sesleri, adı ve logosu dahil olmak üzere
+Flashbyte'a aittir ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile uluslararası
+telif hakkı mevzuatı kapsamında korunmaktadır.
+
+İZİN VERİLEN
+- Oyunu kendi bilgisayarınızda, kişisel ve ticari olmayan amaçla oynamak.
+
+YASAK OLAN (yazılı izin olmadan)
+- Oyunu veya herhangi bir parçasını kopyalamak, başka yerlere yüklemek, paylaşmak
+  ya da dağıtmak (resmi indirme bağlantısını paylaşmak serbesttir).
+- Oyunu değiştirmek, kodunu veya varlıklarını (görsel, ses, logo) çıkarıp kullanmak.
+- Yasaların izin verdiği ölçü dışında tersine mühendislik yapmak.
+- Oyunu ya da türevlerini kendi adınıza yayınlamak veya satmak.
+
+Bu şartların ihlali halinde Flashbyte, kanuni haklarını kullanma, ihlalin durdurulmasını
+ve uğradığı zararın tazminini talep etme hakkını saklı tutar.
+
+Oyun "olduğu gibi" sunulan bir deneme sürümüdür; herhangi bir garanti verilmez.
+
+İletişim: GitHub @Flash-byte4
+
+----------------------------------------------------------------------
+CODE BREACH - End User License
+© 2026 Flashbyte. All rights reserved.
+
+CODE BREACH, including its code, art, audio, name and logo, is the property of
+Flashbyte and is protected by Turkish Law No. 5846 and international copyright law.
+You may play the game on your own computer for personal, non-commercial use.
+Without written permission you may not copy, re-upload, redistribute, modify,
+extract assets from, reverse engineer (except as permitted by law), publish or
+sell the game or any part of it. Violations may result in legal action and claims
+for damages. Provided "as is" as a test build, without warranty.
+Contact: GitHub @Flash-byte4
